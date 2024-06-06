@@ -1,0 +1,7 @@
+[user]
+	email = " 3198500+ubiuser@users.noreply.github.com"
+	name = Gabor Szabad
+[core]
+	excludesFile = ~/.gitignore
+[init]
+	defaultBranch = main
